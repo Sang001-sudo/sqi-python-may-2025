@@ -1,0 +1,11 @@
+john.doe@example.com
+jane_smith@workplace.org
+michael.brown@yahoo.com
+lucy_liu@shopping.com
+support@company.com
+emma_watson@gmail.com
+robert_downey@hero.com
+natalie.portman@cinema.org
+chris_evans@supermail.com
+scarlett.johansson@movies.net
+tom.holland@webslinger.com
